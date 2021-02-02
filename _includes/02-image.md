@@ -1,1 +1,1 @@
-![doraemon] (https://en.wikipedia.org/wiki/Doraemon#/media/File:Doraemon_volume_1_cover.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
